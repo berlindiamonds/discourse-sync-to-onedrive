@@ -1,0 +1,7 @@
+plugins:
+  discourse_sync_to_skydrive_enabled:
+    default: false
+  discourse_sync_to_skydrive_quantity:
+    default: 5
+  discourse_sync_to_skydrive_api_key:
+    default: ''
