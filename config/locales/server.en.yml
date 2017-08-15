@@ -1,5 +1,5 @@
 en:
   site_settings:
-    discourse_sync_to_skydrive_enabled: "Enable the Skydrive backups plugin. After enabling this, it will work on your next backup"
-    discourse_sync_to_skydrive_quantity: "How many backups will be kept in Skydrive"
-    discourse_sync_to_skydrive_api_key: "Your Skydrive Generated Access Token"
+    discourse_sync_to_onedrive_enabled: "Enable the Onedrive backups plugin. After enabling this, it will work on your next backup"
+    discourse_sync_to_onedrive_quantity: "How many backups will be kept in Onedrive"
+    discourse_sync_to_onedrive_api_key: "Your Onedrive Generated Access Token"

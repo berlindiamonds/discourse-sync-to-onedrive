@@ -1,1 +1,1 @@
-# discourse-sync-to-skydrive
+# discourse-sync-to-onedrive
